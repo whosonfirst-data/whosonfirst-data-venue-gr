@@ -1,0 +1,63 @@
+{
+  "id": 1108702679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.6879859,38.0248447,23.6879859,38.0248447",
+    "geom:latitude":38.024845,
+    "geom:longitude":23.687986,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "sg:address":"75  Artoxinou",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"12135",
+    "sg:website":"http://www.technodyne.gr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633171,
+        85902671,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7abyTZJ9y2QJ1v8clWKjnm_38.024845_23.687986@1308163239"
+    },
+    "wof:country":"GR",
+    "wof:created":1474570875,
+    "wof:geomhash":"21f9a42b8a7c79f90b9b055c3e84640b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "neighbourhood_id":85902671,
+            "region_id":85684697,
+            "venue_id":1108702679
+        }
+    ],
+    "wof:id":1108702679,
+    "wof:lastmodified":1474570875,
+    "wof:name":"Technodyne ",
+    "wof:parent_id":85902671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6879859,
+    38.0248447,
+    23.6879859,
+    38.0248447
+],
+  "geometry": {"coordinates":[23.6879859,38.0248447],"type":"Point"}
+}

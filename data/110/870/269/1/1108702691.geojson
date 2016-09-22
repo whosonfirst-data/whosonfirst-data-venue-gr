@@ -1,0 +1,76 @@
+{
+  "id": 1108702691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"22.9730583,40.6093046,22.9730583,40.6093046",
+    "geom:latitude":40.609305,
+    "geom:longitude":22.973058,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Technopolis ICT Business Park, 9th Km Thessaloniki Thermi Building \u03932 (Gamma Two)",
+    "sg:city":"Thessaloniki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"57001",
+    "sg:tags":[
+        "microformats",
+        "hproduct",
+        "hlisting",
+        "developers",
+        "pan-european"
+    ],
+    "sg:website":"http://anamo.eu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633171,
+        85902699,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dx86IuhD6DPTMvEBa7888_40.609305_22.973058@1308163241"
+    },
+    "wof:country":"GR",
+    "wof:created":1474570876,
+    "wof:geomhash":"b7422759cedf281b47e797ffb79ee955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "neighbourhood_id":85902699,
+            "region_id":85684637,
+            "venue_id":1108702691
+        }
+    ],
+    "wof:id":1108702691,
+    "wof:lastmodified":1474570876,
+    "wof:name":"Anamo",
+    "wof:parent_id":85902699,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "microformats",
+        "hproduct",
+        "hlisting",
+        "developers",
+        "pan-european"
+    ]
+},
+  "bbox": [
+    22.9730583,
+    40.6093046,
+    22.9730583,
+    40.6093046
+],
+  "geometry": {"coordinates":[22.9730583,40.6093046],"type":"Point"}
+}

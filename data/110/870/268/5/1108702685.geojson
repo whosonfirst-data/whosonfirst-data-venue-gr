@@ -1,0 +1,68 @@
+{
+  "id": 1108702685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.8091477,38.0474497,23.8091477,38.0474497",
+    "geom:latitude":38.04745,
+    "geom:longitude":23.809148,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Parnonos St.",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"15125",
+    "sg:tags":[
+        "financial-analysis-software"
+    ],
+    "sg:website":"http://www.c2bii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633171,
+        85902679,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55Q8lr3kesyiAAuhjeTMop_38.047450_23.809148@1308163240"
+    },
+    "wof:country":"GR",
+    "wof:created":1474570875,
+    "wof:geomhash":"c96f55b05b0591b630b015b2fcd88b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "neighbourhood_id":85902679,
+            "region_id":85684697,
+            "venue_id":1108702685
+        }
+    ],
+    "wof:id":1108702685,
+    "wof:lastmodified":1474570875,
+    "wof:name":"C2BII",
+    "wof:parent_id":85902679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financial-analysis-software"
+    ]
+},
+  "bbox": [
+    23.8091477,
+    38.0474497,
+    23.8091477,
+    38.0474497
+],
+  "geometry": {"coordinates":[23.8091477,38.0474497],"type":"Point"}
+}

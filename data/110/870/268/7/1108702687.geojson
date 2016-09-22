@@ -1,0 +1,78 @@
+{
+  "id": 1108702687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.798241,38.05635,23.798241,38.05635",
+    "geom:latitude":38.05635,
+    "geom:longitude":23.798241,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "sg:address":"20-22 Ypsilantou Str.",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10676",
+    "sg:tags":[
+        "social-network",
+        "site",
+        "messaging",
+        "texting",
+        "mobile-network",
+        "smart-phone"
+    ],
+    "sg:website":"http://us.wadja.com/home.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633171,
+        85902679,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EYgIDIAl0IaADL5EOtJf8_38.056350_23.798241@1308163238"
+    },
+    "wof:country":"GR",
+    "wof:created":1474570876,
+    "wof:geomhash":"6c089dd7262b90707e30e7fffa0575fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "neighbourhood_id":85902679,
+            "region_id":85684697,
+            "venue_id":1108702687
+        }
+    ],
+    "wof:id":1108702687,
+    "wof:lastmodified":1474570876,
+    "wof:name":"Wadja",
+    "wof:parent_id":85902679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social-network",
+        "site",
+        "messaging",
+        "texting",
+        "mobile-network",
+        "smart-phone"
+    ]
+},
+  "bbox": [
+    23.798241,
+    38.05635,
+    23.798241,
+    38.05635
+],
+  "geometry": {"coordinates":[23.798241,38.05635],"type":"Point"}
+}

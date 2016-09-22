@@ -1,0 +1,84 @@
+{
+  "id": 1108702681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.6880355,37.9415136,23.6880355,37.9415136",
+    "geom:latitude":37.941514,
+    "geom:longitude":23.688036,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "sg:address":"118, Amfitheas Avenue P. Faliro",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"17562",
+    "sg:tags":[
+        "mobile",
+        "sms",
+        "psms",
+        "audiotex",
+        "audiotext",
+        "wap",
+        "content"
+    ],
+    "sg:website":"http://www.amaze.gr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902711,
+        102191581,
+        85633171,
+        101913513,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dOYG4cHVExm73xXsIrjmb_37.941514_23.688036@1308163239"
+    },
+    "wof:country":"GR",
+    "wof:created":1474570875,
+    "wof:geomhash":"128e775ee3fe7effaeffc99539f477ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101913513,
+            "neighbourhood_id":85902711,
+            "region_id":85684697,
+            "venue_id":1108702681
+        }
+    ],
+    "wof:id":1108702681,
+    "wof:lastmodified":1474570875,
+    "wof:name":"Amaze",
+    "wof:parent_id":85902711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "sms",
+        "psms",
+        "audiotex",
+        "audiotext",
+        "wap",
+        "content"
+    ]
+},
+  "bbox": [
+    23.6880355,
+    37.9415136,
+    23.6880355,
+    37.9415136
+],
+  "geometry": {"coordinates":[23.6880355,37.9415136],"type":"Point"}
+}

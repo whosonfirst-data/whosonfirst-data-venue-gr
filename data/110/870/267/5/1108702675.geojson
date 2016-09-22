@@ -1,0 +1,82 @@
+{
+  "id": 1108702675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.800205,38.007084,23.800205,38.007084",
+    "geom:latitude":38.007084,
+    "geom:longitude":23.800205,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesogion 319",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"15231",
+    "sg:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ],
+    "sg:website":"http://www.buongiorno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633171,
+        85902675,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dQeN4wqzjMgs732BXAUdl_38.007084_23.800205@1308163237"
+    },
+    "wof:country":"GR",
+    "wof:created":1474570875,
+    "wof:geomhash":"7ee4874c1d8ebddde05273d5202269ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "neighbourhood_id":85902675,
+            "region_id":85684697,
+            "venue_id":1108702675
+        }
+    ],
+    "wof:id":1108702675,
+    "wof:lastmodified":1474570875,
+    "wof:name":"Buongiorno",
+    "wof:parent_id":85902675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ]
+},
+  "bbox": [
+    23.800205,
+    38.007084,
+    23.800205,
+    38.007084
+],
+  "geometry": {"coordinates":[23.800205,38.007084],"type":"Point"}
+}
